@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteSpaceWriter-bug", "WhiteSpaceWriter-bug.csproj", "{697D9AF5-0459-48FF-B6AB-5983809FE95E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{697D9AF5-0459-48FF-B6AB-5983809FE95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697D9AF5-0459-48FF-B6AB-5983809FE95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697D9AF5-0459-48FF-B6AB-5983809FE95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697D9AF5-0459-48FF-B6AB-5983809FE95E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD2808BC-E6F2-415F-8E33-560B292DD3A5}
+	EndGlobalSection
+EndGlobal
